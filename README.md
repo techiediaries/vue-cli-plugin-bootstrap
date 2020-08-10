@@ -19,3 +19,4 @@ cd my-app
 vue add bootstrap
 ```
 
+Read the [official docs](https://www.techiediaries.com/vue-cli-plugin-bootstrap/)
