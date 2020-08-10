@@ -1,0 +1,37 @@
+{
+  "name": "vue-cli-plugin-bootstrap",
+  "version": "0.1.0",
+  "description": "vue-cli plugin to add Bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue.git"
+  },
+  "keywords": [
+    "bootstrap-vue",
+    "bootstrap vue",
+    "BootstrapVue",
+    "vue bootstrap",
+    "bootstrap",
+    "bootstrap v4",
+    "bootstrap 4",
+    "plugin",
+    "vue",
+    "vue-cli",
+    "vue-cli-3",
+    "vue-cli-4",
+    "cli"
+  ],
+  "author": "Ahmed Bouchefra (techiediaries9@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techiediaries/vue-cli-plugin-bootstrap/issues"
+  },
+  "homepage": "https://github.com/techiediaries/vue-cli-plugin-bootstrap#readme",
+  "devDependencies": {
+    "@vue/cli-service": "^4.1.1"
+  }
+}
